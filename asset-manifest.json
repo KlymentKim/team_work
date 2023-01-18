@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KlymentKim/team_work/static/css/main.7acaea2f.css",
+    "main.js": "/KlymentKim/team_work/static/js/main.07d3183d.js",
+    "index.html": "/KlymentKim/team_work/index.html",
+    "main.7acaea2f.css.map": "/KlymentKim/team_work/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/KlymentKim/team_work/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
