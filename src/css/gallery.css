@@ -28,6 +28,15 @@
         background-size: cover;
 
     }
+
+    .gallery-img-slide{
+        margin-bottom: 80px;
+        margin-top: -32px;
+    }
+    .gallery-img-customer{
+        margin-bottom: 32px;
+    }
+
     .gallery-feedback-border{
         background-color: #84A178;
         border-radius: 10px;
