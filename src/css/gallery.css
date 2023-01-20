@@ -1,0 +1,34 @@
+@media screen and (max-width:320px),
+(max-width:480px) {
+    .container {
+        width: 100%;
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .advantages{
+        padding-top: 62px;
+        padding-bottom: 62px;
+        background-color: #84A178;
+    }
+    .section{
+        padding-bottom: 60px;
+    }
+    .gallery{
+        background-image: url('/src/images/mobile/320px/mobile_1x.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+
+    }
+    .gallery-feedback-border{
+        background-color: #84A178;
+        border-radius: 10px;
+    }
+
+    .gallery-customer-feedback{
+        padding: 35px 39px;
+        font-size: 12px;
+        line-height: 255%;
+        color: #FCFCFC;
+    }
+}
