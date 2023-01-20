@@ -32,6 +32,7 @@
     .gallery-img-slide{
         margin-bottom: 80px;
         margin-top: -32px;
+        border-radius: 8px;
     }
     .gallery-img-customer{
         margin-bottom: 32px;
