@@ -29,7 +29,17 @@
 
     }
 
+    @media screen and (min-width:320px) {
+    .gallery-img-slide {
+            width: 100%;
+            height: 130px;
+           
+            border-radius: 8px;
+        }
+    }
     .gallery-img-slide{
+        width:100%; 
+        height: 204px;
         margin-bottom: 80px;
         margin-top: -32px;
         border-radius: 8px;
@@ -85,9 +95,11 @@
          }
     
          .gallery-img-slide {
-             margin-bottom: 80px;
-             margin-top: -32px;
-             border-radius: 8px;
+            width: 704px;
+            height: 327px;
+            margin-bottom: 80px;
+            margin-top: -32px;
+            border-radius: 8px;
          }
     
          .gallery-img-customer {
